@@ -1,5 +1,5 @@
-l = [123,"Hello world",[1,2,3], 45.2]
-i = 0
-while i < len(l):
-    print(type(l[i]))
-    i += 1
+timesec = int(input("Введите время в секундах:"))
+sec = timesec % 60
+min = timesec % 3600 // 60
+hour = timesec // 3600
+print(f"{hour}:{min}:{sec}")

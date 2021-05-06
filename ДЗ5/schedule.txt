@@ -1,0 +1,5 @@
+Science: 100(lec) 50(ws) 20(lab)
+Physics: 30(lec) - 20(lab)
+History: - 40(ws) -
+Russian: - - 70(lab)
+Hungarian: 10(lec) 10(ws) 20(lab)
